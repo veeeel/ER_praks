@@ -1,1 +1,1 @@
-See on esimene lause taksti. See on teine lause teksti.
+See on teksti esimene lause. See on teksti teine lause.
