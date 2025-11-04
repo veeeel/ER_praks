@@ -1,2 +1,5 @@
+
 See on esimene lause takst. See on kolmas lause teksti.
-Meil on konflikt. 
+Meil on konflikt.
+See on teksti esimene lause. See on teksti 2. lause.
+
